@@ -56,11 +56,7 @@
 </p>
 
 ---
-## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chasew2&theme=radical&date_format=j%20M%5B%20Y%5D)
-
----
 
 ## 📈 Profile Summary
 
